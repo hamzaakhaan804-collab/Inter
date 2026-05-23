@@ -1,0 +1,6 @@
+{
+  "name": "InternIQ",
+  "description": "Autonomous AI Supervisor for Remote Interns",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
